@@ -110,15 +110,6 @@ I learned a great deal about chatbot from my summer research project. I learned 
 
 [Back to top](#top)
 
-## <a name="license"></a>License Information
-The MIT License (MIT)
 
-Copyright © 2019 Kwangjin Park
-
-You can find a copy of the License at https://mit-license.org/
-
-License for them is in `Public Domain`
-
-[Back to top](#top)
 
 
